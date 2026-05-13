@@ -8,5 +8,4 @@ function rotateArray(arr, k) {
 
   return endPart.concat(startPart);
 }
-
 console.log(rotateArray([1, 2, 3, 4, 5], 2));
